@@ -16,14 +16,14 @@ ciclo de vida do serviço e o listener de coleta dos tweets.
 
 Implemente uma classe que representa um Tweet e possua os seguintes campos:
 
-* O nome do usuário que enviou o tweet
-* O texto do tweet
-* A data em que o tweet foi enviado
+* O nome do usuário que enviou o Tweet
+* O texto do Tweet
+* A data em que o Tweet foi enviado
 
 ## Passo 2:
 
 Implemente o listener que recebe os tweets.
-A cada tweet recebido, o listener deve criar um objeto Tweet e escrever na console.
+A cada Tweet recebido, o listener deve criar um objeto Tweet e escrever na console.
 
 ## Passo 3:
 

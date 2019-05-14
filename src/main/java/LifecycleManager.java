@@ -5,3 +5,4 @@ public interface LifecycleManager {
     public void start();
     public void stop();
 }
+
